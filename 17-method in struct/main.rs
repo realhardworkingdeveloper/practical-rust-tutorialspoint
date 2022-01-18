@@ -18,6 +18,7 @@ fn main(){
         width:10,
         height:20
     };
+    
     //print the rectangle's area
     println!(
         "width is {} height is {} area of Rectangle is {}",
